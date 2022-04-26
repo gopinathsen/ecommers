@@ -1,0 +1,30 @@
+.Section1{
+    background-image: url("/public/IMG/23.jpg");
+    background-size: cover;
+    
+    height: 600px;
+
+
+}
+.Submitbutton1{
+    margin-left: 45%;
+    background-color: rgb(20, 47, 201);
+    border-color: rgb(5, 5, 5);
+    width: auto;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    
+}
+
+.heading3{
+        font-size: 30px;
+}
+.Page1{
+    font-size: 20px;
+    width: 35%;
+    height: 50px;
+    margin:auto;
+    justify-content: center;
+}
